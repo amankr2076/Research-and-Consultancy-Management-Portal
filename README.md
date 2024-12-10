@@ -14,6 +14,33 @@ The platform is built using a modular architecture, ensuring scalability, flexib
 
 ---
 
+## Interface
+
+- **HomePage**:
+  
+    ![Alt Text](https://github.com/amankr2076/Research-and-Consultancy-Management-Portal/blob/main/images/homePage.jpg)
+
+- **Projects Page**
+
+    ![Alt Text](https://github.com/amankr2076/Research-and-Consultancy-Management-Portal/blob/main/images/projects%20Page.jpg)
+
+- **Admin Dashboard**
+
+    ![Alt Text](https://github.com/amankr2076/Research-and-Consultancy-Management-Portal/blob/main/images/admin%20Dashboard.jpg)
+
+- **Manage Documents Page**
+
+    ![Alt Text](https://github.com/amankr2076/Research-and-Consultancy-Management-Portal/blob/main/images/manageDocuments%20Page.jpg)
+
+
+
+
+
+  ---
+
+
+
+
 ## System Architecture  
 
 ### Front End  
